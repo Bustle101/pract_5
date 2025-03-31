@@ -19,6 +19,6 @@
 
 3. **Запуск приложения**
    ```bash
-   npm server.js
+   node server.js
    ```
    После запуска будет доступен http://localhost:3002/

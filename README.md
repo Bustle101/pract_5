@@ -9,7 +9,7 @@
 1. **Клонирование репозитория**
    ```bash
    git clone https://github.com/Bustle101/pract_5.git
-   
+   cd pract_5
    ```
 
 2. **Установка зависимостей**

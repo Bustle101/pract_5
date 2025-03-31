@@ -21,4 +21,4 @@
    ```bash
    npm server.js
    ```
-   После запуска будет доступен http://localhost:3020/
+   После запуска будет доступен http://localhost:3002/
